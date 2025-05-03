@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 .wrapper{
     width: 100%;
     height: auto;
@@ -11,7 +14,8 @@
     align-items: center;
     width: 500px;
     height: auto;
-    margin-top: 10px;
+    margin-top: 200px;
+    background-color: white;
 }
 .pfp-header{ 
     width: 50px;
@@ -33,7 +37,8 @@
 .body-photo{
     width: 500px;
     height: auto;
-    margin-top: 10px;
+    margin-top: 0px;
+    background-color: white;
 }
 .body-photo img{
     width: 100%;
@@ -44,6 +49,7 @@
     height: auto;
     display: flex;
     flex-direction: column;
+    background-color: white;
 }
 .description-icons{
     display: flex;
