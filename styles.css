@@ -29,6 +29,11 @@ body{
 }
 .user-tittle{
     margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.user-tittle p{
+    margin: 0;
 }
 .user-menu{
     margin-left: auto;
